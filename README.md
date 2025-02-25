@@ -1,5 +1,6 @@
 # open-taobao-api
-[淘宝API](https://rapidapi.com/q18616316343/api/open-taobao-api)
+<a href="https://rapidapi.com/q18616316343/api/open-taobao-api" target="_blank">淘宝API</a>
+
 
 # 开放平台 API 在 RapidAPI 上的对接说明
 ## 一、引言
